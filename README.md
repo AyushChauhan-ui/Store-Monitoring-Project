@@ -12,8 +12,7 @@ This is a Django-based backend API project for monitoring the online status of r
 - [API Endpoints](#api-endpoints)
 - [Data Ingestion](#data-ingestion)
 - [Report Generation](#report-generation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
