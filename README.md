@@ -37,9 +37,9 @@ The Store Monitoring project provides a set of backend APIs to monitor the onlin
 
 1. Clone this repository to your local machine.
 2. You can also create your own project using commands
-  django-admin startproject store_monitoring_project
-  cd store_monitoring_project
-  python manage.py startapp store_monitoring_app
+  'django-admin startproject store_monitoring_project'
+  'cd store_monitoring_project'
+  'python manage.py startapp store_monitoring_app'
 4. Create and activate a virtual environment (optional but recommended).
 5. Install the required Python packages using `pip install -r requirements.txt`.
 6. Configure the database settings in `store_monitoring_project/settings.py`.
